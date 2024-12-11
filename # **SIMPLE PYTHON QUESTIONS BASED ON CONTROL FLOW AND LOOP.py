@@ -65,12 +65,6 @@ while True:
         break
     total_sum += number
 print("The sum of the numbers is:", total_sum)
-Enter a number (enter 0 to stop): 55
-Enter a number (enter 0 to stop): 66
-Enter a number (enter 0 to stop): 1
-Enter a number (enter 0 to stop): 2
-Enter a number (enter 0 to stop): 0
-The sum of the numbers is: 124
 
 12.Write a program to reverse a given number using a while loop
 number = int(input("Enter a number: "))
